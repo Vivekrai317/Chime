@@ -10,7 +10,7 @@ import { axiosInstance } from './lib/axios'
 import { useAuthStore } from './store/useAuthStore'
 import { Loader } from "lucide-react"
 import {Toaster} from "react-hot-toast"
-import { useThemeStore } from './store/useTHEMEStore'
+import { useThemeStore } from './store/useThemeStore'
 
 const App = () => {
 
