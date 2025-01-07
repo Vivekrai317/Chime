@@ -5,7 +5,7 @@ import ProfilePage from './pages/ProfilePage'
 import SettingsPage from './pages/SettingsPage'
 import LoginPage from './pages/LoginPage'
 import SignupPage from './pages/SignupPage'
-import Homepage from './pages/Homepage'
+import Homepage from './pages/HomePage'
 import { axiosInstance } from './lib/axios'
 import { useAuthStore } from './store/useAuthStore'
 import { Loader } from "lucide-react"
